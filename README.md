@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-https://visitor-badge.glitch.me/badge?page_id=page.id
+
 - 📫 How to reach me:
 - 💗 Portfolio: https://desiree-garcia.herokuapp.com/
 - 😁 LinkedIn: https://www.linkedin.com/in/d3sir33g/
