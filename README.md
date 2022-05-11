@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![trim 6FA49E67-194D-4318-A08B-160084ED6D69](https://user-images.githubusercontent.com/57469534/167914995-0125a9d5-2e5c-498b-866c-1dda681e405e.GIF)
 
 
 
