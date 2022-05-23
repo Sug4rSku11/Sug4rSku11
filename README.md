@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-- 😁 LinkedIn: https://www.linkedin.com/in/d3sir33g/
+- 😁 LinkedIn: ![alt -text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/d3sir33g/)
 
 - 💻 Skills :
 ![alt-text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
