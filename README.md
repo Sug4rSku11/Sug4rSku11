@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Desiree!
+## Hi there 👋, I'm Desiree!
 
 <!--
 **Sug4rSku11/Sug4rSku11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,15 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+![trim 6FA49E67-194D-4318-A08B-160084ED6D69](https://user-images.githubusercontent.com/57469534/167914995-0125a9d5-2e5c-498b-866c-1dda681e405e.GIF)
 -->
 
-![trim 6FA49E67-194D-4318-A08B-160084ED6D69](https://user-images.githubusercontent.com/57469534/167914995-0125a9d5-2e5c-498b-866c-1dda681e405e.GIF)
-
-
-
-
 - 📫 How to reach me:
-- 😁 LinkedIn: [![alt -text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d3sir33g/)
+[![alt -text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d3sir33g/)
 
 - 💻 Skills :
 ![alt-text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
