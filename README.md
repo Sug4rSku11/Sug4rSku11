@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![alt-text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![alt-text](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt-text](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 -->
 <h1 align="center">Hi 👋, I'm Desiree</h1>
 <h3 align="center">A passionate fullstack developer</h3>
